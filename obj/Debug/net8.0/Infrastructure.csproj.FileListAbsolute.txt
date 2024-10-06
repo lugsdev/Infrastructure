@@ -33,3 +33,4 @@ C:\Users\lucas\source\repos\Store\Infrastructure\obj\Debug\net8.0\refint\Infrast
 C:\Users\lucas\source\repos\Store\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
 C:\Users\lucas\source\repos\Store\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
 C:\Users\lucas\source\repos\Store\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\lucas\source\repos\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
